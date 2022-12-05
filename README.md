@@ -8,3 +8,6 @@ Advertising platforms, Internet services, Internet shops, Digital-agencies / Mar
 
 ## 3. Tech stack
 - Pandas
+
+## 4. Results
+There is a difference in preferences between Moscow and St. Petersburg mainly at the beginning of the week affecting the behaviour of users during the week. However, musical tastes remain mostly the same, so that recommendations have to show pop, dance, rock and electronic genres. 
